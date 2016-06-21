@@ -48,7 +48,7 @@
 ##实现原理
 利用ASCII码对照表，转换输入的每个字符对比。
 注释已经很清楚的不懂得可以看下
-源码地址：[GitHub](https://github.com/xinxibin)
+源码地址：[GitHub](https://github.com/xinxibin/ios-Textfield-or-TextView-)
 博客地址：[xinxibin.com](https://xinxibin.com)
 ***
 
